@@ -7,10 +7,14 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Sample dataset
+2. Split into features and target
+3. Train-test split
+4. Feature scaling
+5. Create and train SGDClassifier for Logistic Regression
+6. Make predictions
+7. Evaluate the model
+8. Predict placement for a new student
 
 ## Program:
 ```
